@@ -1,3 +1,4 @@
 # finly
 
-A new Flutter project.
+Still under development
+
