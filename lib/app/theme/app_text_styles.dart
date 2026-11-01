@@ -5,28 +5,28 @@ abstract final class AppTextStyles {
   static const TextStyle displayLarge = TextStyle(
     fontFamily: 'Manrope',
     fontSize: 40,
-    fontWeight: FontWeight.w700,
+    fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,
   );
 
   static const TextStyle displayMedium = TextStyle(
     fontFamily: 'Manrope',
     fontSize: 32,
-    fontWeight: FontWeight.w700,
+    fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,
   );
 
   static const TextStyle headlineLarge = TextStyle(
     fontFamily: 'Manrope',
     fontSize: 28,
-    fontWeight: FontWeight.w700,
+    fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,
   );
 
   static const TextStyle headlineMedium = TextStyle(
     fontFamily: 'Manrope',
     fontSize: 24,
-    fontWeight: FontWeight.w700,
+    fontWeight: FontWeight.w600,
     color: AppColors.textPrimary,
   );
 

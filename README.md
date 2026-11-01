@@ -1,4 +1,4 @@
-# finly
+# Finly
 
 Still under development
 
