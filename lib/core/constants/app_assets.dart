@@ -4,5 +4,7 @@ abstract final class AppAssets {
   static const String finlyLogo = 'assets/images/logos/finly_logo.png';
   static const String onboardingBg =
       'assets/images/onboarding/onboarding_bg.png';
-  static const String onboardingImage1 = 'assets/images/illustrations/onboarding_image_1.svg';
+  static const String onboardingImage1 =
+      'assets/images/illustrations/onboarding_image_1.svg';
+  static const googleLogo = 'assets/images/icons/google_icon.svg';
 }
